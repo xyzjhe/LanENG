@@ -131,7 +131,7 @@
       "name": "🍂HDmoli",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "https://lantongxue.cc/工具包/js/HDmoli.js"
+      "ext": "./lib/HDmoli.js"
     },
     {
       "key": "drpy_js_Voflix",
