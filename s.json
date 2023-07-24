@@ -3,7 +3,7 @@
 
     {
       "key": "js_douban",
-      "name": "Douban_Js",
+      "name": "🦀Douban_Js",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/drpy.js",
